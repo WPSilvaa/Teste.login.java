@@ -1,11 +1,5 @@
 </> Java
 
-import pages.LoginPage;
-import org.junit.jupiter.api.*;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-
-public class LoginTest {
 
     WebDriver driver;
 
