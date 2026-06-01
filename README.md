@@ -1,3 +1,5 @@
+</> Java
+
 import pages.LoginPage;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
